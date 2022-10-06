@@ -1,1 +1,1 @@
-# nextjs_example
+Bu klasöre nextjs öğrenirken yaptığım ufak tefek çalışmaları atıyorum
